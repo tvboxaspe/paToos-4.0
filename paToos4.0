@@ -1,6 +1,6 @@
 {
 	"name": "Enlaces paToos - v4.0",
-    "author": "paToos - actualizado 22/4/2025",
+    "author": "paToos - actualizado 5/5/2025",
     "image": "https://i.ibb.co/rpHn4L9/pa-Toos-logo-2023.jpg",
     "info": "Enlaces canal paToos",
     "telegram": "",
@@ -686,6 +686,13 @@
                 "online":"true",
                 "embed":"true"
  
+},
+
+{
+            "name": "Canal 1 ⚽ Liga TV BAR opc3",
+"info": "LIGA TV",
+            "image": "https://www.infoplay.info/fotos/noticias/2022/08/Locales-de-juego-y-Hosteleria-podran-acceder-al-canal-LaLigaTV-Bar-con-tarifas-especiales-y-especificas-1.jpg",
+            "url" : "https://wo.cma.footballii.ir/hls2/laligatv.m3u8"
 },
  
  
