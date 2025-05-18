@@ -356,7 +356,7 @@
 			"name": "Canal Tiro al palo (solo eventos) ",
 "info": "canal con los mejores eventos",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://tiroalpalo.org.es/", 
+			"url" : "https://tiroalpalo.me/", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
