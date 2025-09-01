@@ -85,63 +85,79 @@
 [ 
  
  
- 
+
+{
+			"name": "StremGo ",
+"info": " ", 
+			"image": "https://stremgo.es/wp-content/uploads/2023/12/cropped-StremGologo.png",
+			"url" : "https://stremgo.es/tv-futbol-stremgo/",
+
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"  
+          },
+
 {
 			"name": "Agendas deportivas ⬇️⬇️⬇️⬇️",
 			"image": "https://static.elcorreo.com/www/multimedia/202208/11/media/fotolead-calendario601.gif",
 			"url" : "",
 			"isHost": "true"
           },
- 
- 
- 
+
+
+{
+			"name": "Jeinz",
+"info": "canal con los mejores eventos",
+			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
+			"url" : "https://telegra.ph/EVENTOS-DEPORTIVOS-DEL-DÍA-07-23", 
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"
+
+          },
+
 {
 			"name": "Agenda deportiva LiveTv ",
 "info": " ", 
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
 			"url" : "https://livetv.sx/es/",
- 
+
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
- 
+
+
+
 {
-			"name": "Agenda deportiva AntenaSport ",
-"info": " ", 
+			"name": "Agenda deportiva Rbtv33",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://antenasport.site/",
- 
+			"url" : "https://www.rbtvplus04.com/es",
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
- 
+
 {
-			"name": "Agenda Zvision",
-"info": " ",
+			"name": "Agenda deportiva 24hSport",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://zvision.link/", 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-          },
- 
- 
-{
-			"name": "Agenda deportiva Rbtv77",
-			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://www.rbtv77.store/es",
+			"url" : "https://24hsport.tv/",
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
- 
- 
- 
- 
- 
+
+{
+			"name": "Agenda deportiva teledeportes",
+			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
+			"url" : "https://teledeportes.top/",
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"  
+          },
+
+
+
 {
 			"name": "Agenda deportiva BingSport",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
@@ -150,46 +166,19 @@
                 "online":"true",
                 "embed":"true"  
           },
- 
- 
+
+
+
+
 {
-			"name": "Agenda deportiva DeporteLibre",
+			"name": "Agenda deportiva eliteGol",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://deporte-libre.top/",
+			"url" : "https://www.elitegoltv.pl/",
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
-{
-			"name": "Agenda deportiva RústicoTV",
-			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://rusticotv.com/",
-	        "desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
- 
- 
-{
-			"name": "Agenda deportiva tikitaka",
-			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://www.lacasadeltikitakatv.net/home.php",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
- 
- 
-{
-			"name": "Agenda deportiva LiveOn",
-			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://1.ivesoccer.sx/index.php",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
+
  
  
  
