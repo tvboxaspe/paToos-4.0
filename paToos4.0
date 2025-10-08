@@ -1,6 +1,6 @@
 {
 	"name": "Enlaces paToos - v4.0",
-    "author": "paToos - actualizado 1/9/2025",
+    "author": "paToos - actualizado 8/10/2025",
     "image": "https://i.ibb.co/rpHn4L9/pa-Toos-logo-2023.jpg",
     "info": "Enlaces canal paToos",
     "telegram": "",
@@ -84,60 +84,111 @@
 "stations":
 [ 
  
- 
-
 {
 			"name": "StremGo ",
 "info": " ", 
 			"image": "https://stremgo.es/wp-content/uploads/2023/12/cropped-StremGologo.png",
 			"url" : "https://stremgo.es/tv-futbol-stremgo/",
-
+ 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
-
+ 
 {
 			"name": "Agendas deportivas ⬇️⬇️⬇️⬇️",
 			"image": "https://static.elcorreo.com/www/multimedia/202208/11/media/fotolead-calendario601.gif",
 			"url" : "",
 			"isHost": "true"
           },
-
-
+ 
+ 
 {
 			"name": "Jeinz",
 "info": "canal con los mejores eventos",
-			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
+			"image": "https://www.casasdeapuestas.com/wp-content/uploads/2021/12/calendario-deportivo.jpg",
 			"url" : "https://telegra.ph/EVENTOS-DEPORTIVOS-DEL-DÍA-07-23", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
-
+ 
           },
-
+ 
+{
+			"name": "Omega-Vercel",
+"info": "canal con los mejores eventos",
+			"image": "https://www.casasdeapuestas.com/wp-content/uploads/2021/12/calendario-deportivo.jpg",
+			"url" : "https://enlaces-omega.vercel.app/horario.html", 
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"
+ 
+          },
+ 
+{
+			"name": "EntresHijos",
+"info": "canal con los mejores eventos",
+			"image": "https://www.casasdeapuestas.com/wp-content/uploads/2021/12/calendario-deportivo.jpg",
+			"url" : "https://telegra.ph/Agenda-Deportiva-Entreshijos-de-Paco-10-08", 
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"
+ 
+          },
+ 
+{
+			"name": "Ciriaco con ACESTREAM",
+"info": "canal con los mejores eventos",
+			"image": "https://www.casasdeapuestas.com/wp-content/uploads/2021/12/calendario-deportivo.jpg",
+			"url" : "https://ciriaco-liart.vercel.app/", 
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"
+ 
+          },
+ 
+{
+			"name": "Flipax",
+"info": "canal con los mejores eventos",
+			"image": "https://marcaporhombro.com/wp-content/uploads/2014/05/logos-teles.jpg",
+			"url" : "https://foknaretre.foroactivo.com/h1-agenda", 
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"
+ 
+          },
+ 
+ 
 {
 			"name": "Agenda deportiva LiveTv ",
 "info": " ", 
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://livetv.sx/es/",
-
+			"url" : "https://livetv868.me/es/",
+ 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
-
-
-
+ 
+{
+			"name": "Agenda deportiva MadPlay77",
+			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
+			"url" : "https://elsegd02.slippedducko4u5yk.sbs/es",
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"  
+          },
+ 
+ 
 {
 			"name": "Agenda deportiva Rbtv33",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://www.rbtvplus04.com/es",
+			"url" : "https://www.fctv33.com/es",
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
-
+ 
 {
 			"name": "Agenda deportiva 24hSport",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
@@ -146,7 +197,16 @@
                 "online":"true",
                 "embed":"true"  
           },
-
+ 
+{
+			"name": "Agenda deportiva KevinSport",
+			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
+			"url" : "https://kevinsport.top/",
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"  
+          },
+ 
 {
 			"name": "Agenda deportiva teledeportes",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
@@ -155,30 +215,18 @@
                 "online":"true",
                 "embed":"true"  
           },
-
-
-
+ 
+ 
+ 
 {
 			"name": "Agenda deportiva BingSport",
 			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://bingsport.watch/",
+			"url" : "https://bingsport3.com/",
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
-
-
-
-
-{
-			"name": "Agenda deportiva eliteGol",
-			"image": "https://www.caspe.es/wp-content/uploads/2022/03/Agenda-Deportiva.jpg",
-			"url" : "https://www.elitegoltv.pl/",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
-
+ 
  
  
  
@@ -192,42 +240,83 @@
  
  
 {
-			"name": "1 Liga, Champions y gran evento (sports)",
+			"name": "1 Liga, Champions y gran evento (sports)🇪🇸",
 			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
 			"url" : "https://v3.sportsonline.sx/channels/hd/hd6.php"
  
  
           },
  
+ 
 {
-			"name": "2 Liga, Champions y gran evento (whip)",
+			"name": "2 Liga, Champions y gran evento (sports)",
 			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
-			"url" : "https://whipwhip.xyz/str.php?id=live106"
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd1.php "
  
           },
  
- 
- 
- 
 {
-			"name": "3 Liga, Champions y gran evento (buzzTv)",
+			"name": "3 Liga, Champions y gran evento (sports)",
 			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
-			"url" : "https://buzztv.futbol/hd6.php"
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd2.php "
  
-          },
-{
-			"name": "4 Liga, Champions y gran evento (elixx)",
-			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
-			"url" : "https://elixx.xyz/apsg.html", 
-		"isHost": "true"
           },
  
 {
-			"name": "5 Liga, Champions y gran evento (whip105)",
+			"name": "4 Liga, Champions y gran evento (sports)",
 			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
-			"url" : "https://whipwhip.xyz/str.php?id=live105"
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd3.php "
  
           },
+ 
+{
+			"name": "5 Liga, Champions y gran evento (sports)",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd4.php "
+ 
+          },
+ 
+{
+			"name": "6 Liga, Champions y gran evento (sports)",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd5.php "
+ 
+          },
+ 
+{
+			"name": "7 Liga, Champions y gran evento (sports)",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd7.php "
+ 
+          },
+ 
+{
+			"name": "8 Liga, Champions y gran evento (sports)",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd8.php "
+ 
+          },
+ 
+{
+			"name": "9 Liga, Champions y gran evento (sports)🇪🇸",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd9.php "
+ 
+          },
+ 
+{
+			"name": "10 Liga, Champions y gran evento (sports)",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd10.php "
+ 
+          }, 
+{
+			"name": "11 Liga, Champions y gran evento (sports)",
+			"image": "https://www.mundoprimaria.com/wp-content/uploads/2020/07/deporte.jpg",
+			"url" : "https://v3.sportsonline.sx/channels/hd/hd11.php "
+ 
+          },
+ 
  
 {
 			"name": "Parrilla TV",
@@ -283,7 +372,7 @@
 {
 			"name": "Parrilla TV (Flipax)",
 			"image": "https://todoindie.com/wp-content/uploads/2023/02/Photocall-TV-canales-tdt-1160x687.jpg",
-			"url" : "www.flipax.es", 
+			"url" : "https://jefyilemle.foroactivo.com/h1-agenda", 
 		"desktop": "true",
                 "online":"true",
                 "embed":"true"
@@ -301,14 +390,6 @@
  
  
  
-{
-			"name": "Parrilla TV (dazcfutbolios)",
-			"image": "https://todoindie.com/wp-content/uploads/2023/02/Photocall-TV-canales-tdt-1160x687.jpg",
-			"url" : "https://mb.dazcfutbolios.net/", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"
-          },
  
  
 {
@@ -328,24 +409,13 @@
           },
  
  
-{
-			"name": "BlogSpot (solo eventos) ",
-"info": "canal con los mejores eventos",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://futbolenviivoo.blogspot.com/?m=0",
-"desktop": "true",
-                "online":"true",
-                "embed":"true"	
-          },
- 
- 
  
  
 {
 			"name": "Canal Tiro al palo (solo eventos) ",
 "info": "canal con los mejores eventos",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://tiroalpalo.me/", 
+			"url" : "https://tiroalpalo.org.es/", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
@@ -356,7 +426,7 @@
 			"name": "Verrucas Jeinz (solo eventos) ",
 "info": "canal con los mejores eventos",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://mx.jeinzmacias.io/?m=1", 
+			"url" : "https://cu.jeinzmacias.pe/?m=1", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
@@ -364,10 +434,29 @@
           },
  
 {
-			"name": "Freddy (solo eventos) ",
+			"name": "Freddy señal 1",
 "info": "canal con los mejores eventos",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://xcfnjhmn.blogspot.com/p/sanal1.html", 
+			"url" : "https://cutt.ly/OrHs4xbd?paToos"
+ 
+ 
+          },
+ 
+{
+			"name": "Freddy señal 2",
+"info": "canal con los mejores eventos",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
+			"url" : "https://cutt.ly/srHs3BMp?paToos", 
+			"desktop": "true",
+                "online":"true",
+                "embed":"true"
+ 
+          },
+{
+			"name": "Freddy señal 3",
+"info": "canal con los mejores eventos",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
+			"url" : "https://cutt.ly/mrHs9rFW?paToos", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
@@ -375,20 +464,10 @@
           },
  
 {
-			"name": "Freddy señal1 (solo eventos) ",
+			"name": "Freddy señal juanitv",
 "info": "canal con los mejores eventos",
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://m.vkvideo.ru/video817913734_456239329", 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-          },
-{
-			"name": "Freddy señal paToos (solo eventos) ",
-"info": "canal con los mejores eventos",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqaKZbCuDLjVJpITBbm4Eo5i7pk9xU5IMxWA&usqp=CAU",
-			"url" : "https://cutt.ly/SeD82uKP", 
+			"url" : "https://ssh101.com/live/juanintv", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
@@ -413,155 +492,6 @@
 "info": " ", 
 			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
 			"url" : "https://deportesgratis.us/",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
- 
-{
-			"name": "Deportes Gratis 1", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
-{
-			"name": "Deportes Gratis 2", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol2",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
-{
-			"name": "Deportes Gratis 3", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol3",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
-{
-			"name": "Deportes Gratis 4", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol4",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
-{
-			"name": "Deportes Gratis 5", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol5",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
-{
-			"name": "Deportes Gratis 6", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol6",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
-{
-			"name": "Deportes Gratis 7", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol7",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
-{
-			"name": "Deportes Gratis 8", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/futbol8",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
-{
-			"name": "Deportes Gratis ESPN", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/espndeportes",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
-{
-			"name": "Deportes Gratis NBA 1", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/nba",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
-{
-			"name": "Deportes Gratis NBA 2", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/nba2",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
-{
-			"name": "Deportes Gratis NBA 3", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/nba3",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          }, 
- 
-{
-			"name": "Deportes Gratis NBA 4", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/nba",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
-{
-			"name": "Deportes Gratis MotoGP", 
-"info": " ", 
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR74Cx2SG9_lno107lggsQqTyoq5wwgI8r3Q&usqp=CAU",
-			"url" : "https://futbol.deportesgratis.us/motogp",
  
 			"desktop": "true",
                 "online":"true",
