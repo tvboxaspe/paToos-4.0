@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EVENTOS ACEX XUPERLIST</title>
+  <style>
+    body {
+      background-color: #101010;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(90deg, #002244, #0055aa);
+      padding: 16px 0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+    h1 {
+      font-size: 1.4rem;
+      margin: 0;
+    }
+    iframe {
+      width: 100%;
+      height: 90vh;
+      border: none;
+    }
+    footer {
+      font-size: 0.8rem;
+      padding: 8px;
+      background-color: #111;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🎥 EVENTOS ACEX XUPERLIST</h1>
+  </header>
+
+  <iframe 
+    src="https://raw.githubusercontent.com/Icastresana/lista1/main/eventos.m3u"
+    title="EVENTOS ACEX XUPERLIST">
+  </iframe>
+
+  <footer>
+    Fuente original: GitHub | Autor: paToos | Actualizado: 18/10/2025
+  </footer>
+</body>
+</html>
