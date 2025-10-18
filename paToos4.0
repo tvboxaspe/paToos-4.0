@@ -539,15 +539,7 @@
 "image": "https://i.postimg.cc/WpBYwXLB/logo6-7-205658.png",
 "url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLiveEvents.m3u8"
 },
-{
-  "name": "EVENTOS ACEX XUPERLIST",
-  "image": "https://i.postimg.cc/jqgsnjqC/logo6-7-193731.png",
-  "info": "Lista ACEX Xuperlist embebida en web HTML",
-  "url": "https://raw.githubusercontent.com/tvboxaspe/paToos-4.0/refs/heads/main/index.html",
-  "desktop": "true",
-  "online": "true",
-  "embed": "true"
-}, 
+
  
 {
             "name": "Firulais",
