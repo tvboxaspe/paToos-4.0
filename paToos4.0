@@ -558,400 +558,179 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
-    "name": "Selección canales deportivos",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeEu2r_3as_LokhQOtYTqSKnV75K3jF4CDxw&usqp=CAU",
+    "name": "Selección eventos deportivos y canales",
+    "image": "https://st.mycdn.me/res/i/ok_logo-r.png",
 "info": "Enlaces del grupo paToos. Posiblemente haga falta activar un VPN",
 "stations":
 [ 
-
-{
-"name": "EVENTS DAILY XUPERLIST",
-"image": "https://i.postimg.cc/WpBYwXLB/logo6-7-205658.png",
-"url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLiveEvents.m3u8"
-},
-
+ 
  
 {
-            "name": "Firulais",
+        "name": "EVENTOS ACEX XUPERLIST",
+        "image": "https://i.postimg.cc/BnSB8xmq/PPV-new.png",
+        "url": "https://raw.githubusercontent.com/Icastresana/lista1/main/eventos.m3u", 
+        "import": false
+        },
+ 
+ 
+ 
+{
+            "name": "Eventos tv24-7",
 "info": "  ",
             "image": "https://st.mycdn.me/res/i/ok_logo-r.png",
-            "url": "https://ma.futboltv.su/matches/multigol-en-vivo", 
-"desktop": "true",
-                "online":"true",
+            "url": "https://tv247us.live/events", 
+ 
                 "embed":"true"   
  
 	                },
  
- 
- 
- 
- 
 {
-            "name": "Canal 0 Movistar+",
-"info": "canal # Movistar opc.1",
-            "image": "https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/-0_M%2B_copie.png/revision/latest?cb=20160225071110",
-            "url": "https://oha.to/play/2881668464/index.m3u8", 
-"desktop": "true",
-                "online":"true",
-                "embed":"true"  
+            "name": "Todos los canales tv24-7",
+"info": "  ",
+            "image": "https://st.mycdn.me/res/i/ok_logo-r.png",
+            "url": "https://tv247us.live/tv-channels", 
  
-	                },
- 
- 
-{
-            "name": "Canal 0 Movistar+",
-"info": "canal # Movistar opc.2",
-            "image": "https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/-0_M%2B_copie.png/revision/latest?cb=20160225071110",
-            "url": "https://dlhd.sx/embed/stream-437.php", 
-"desktop": "true",
-                "online":"true",
-                "embed":"true"  
- 
-	                },
- 
-{
-            "name": "Canal 0 Movistar+",
-"info": "canal # Movistar opc.3",
-            "image": "https://vignette3.wikia.nocookie.net/logopedia/images/d/d9/-0_M%2B_copie.png/revision/latest?cb=20160225071110",
-            "url": "https://oha.to/play/3585307980/index.m3u8", 
-"desktop": "true",
-                "online":"true",
-                "embed":"true"  
- 
-	                },
- 
- 
- 
- 
-{
-            "name": "Canal 1 ⚽ Liga TV BAR",
-"info": "Liga TV Bar",
-            "image": "https://www.infoplay.info/fotos/noticias/2022/08/Locales-de-juego-y-Hosteleria-podran-acceder-al-canal-LaLigaTV-Bar-con-tarifas-especiales-y-especificas-1.jpg",
-            "url" : "https://oha.to/play/1980907224/index.m3u8", 
-"desktop": "true",
-                "online":"true",
-                "embed":"true"          
-},
- 
-{
-            "name": "Canal 1 ⚽ Liga TV BAR opc2",
-"info": "SKY LIGA",
-            "image": "https://www.infoplay.info/fotos/noticias/2022/08/Locales-de-juego-y-Hosteleria-podran-acceder-al-canal-LaLigaTV-Bar-con-tarifas-especiales-y-especificas-1.jpg",
-            "url" : "https://www.motorsport803.online/2024/09/sky-sport-laliga.html", 
-"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-},
-
-{
-            "name": "Canal 1 ⚽ Liga TV BAR opc3",
-"info": "LIGA TV",
-            "image": "https://www.infoplay.info/fotos/noticias/2022/08/Locales-de-juego-y-Hosteleria-podran-acceder-al-canal-LaLigaTV-Bar-con-tarifas-especiales-y-especificas-1.jpg",
-            "url" : "https://wo.cma.footballii.ir/hls2/laligatv.m3u8"
-},
- 
- 
-{
-            "name": "Canal 2 ⚽ Movistar Liga opc.1",
-"info": "Movistar Liga",
-            "image": "https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",
-            "url" : "https://oha.to/play/2652614938/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
- 
-},
- 
-{
-            "name": "Canal 2 ⚽ Movistar Liga opc.2 ",
-"info": "Movistar Liga",
-            "image": "https://cdn.sincroguia.tv/uploads/images/t/x/1/xmovistar-la-liga.jpg.pagespeed.ic.ms2Jjy3cbG.jpg",
-            "url" : "https://d.daddylivehd.sx/stream/stream-84.php",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-          },
- 
- 
- 
- 
- 
- 
-{
-            "name": "Canal 3 ⚽ 1ªdivisión Dazn opc.1",
-"info": "Dazn Liga",
-            "image": "https://i.blogs.es/82ca04/laliga/1366_2000.jpeg",
-            "url" : "https://oha.to/play/3461295847/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
- 
-          },
- 
- 
-{
-            "name": "Canal 3 ⚽ 1ªdivisión Dazn opc.2",
-"info": "Dazn Liga",
-            "image": "https://i.blogs.es/82ca04/laliga/1366_2000.jpeg",
-            "url" : "https://nuevogol.com/en-vivo-online/dazn-la-liga-es",
-"desktop": "true",
-                "online":"true",
-                "embed":"true"  
- 
-          },
- 
- 
- 
- 
-{
-            "name": "Canal 4 ⚽ Dazn2 1ªdivisión",
-"info": "Dazn2",
-            "image": "https://i.blogs.es/82ca04/laliga/1366_2000.jpeg",
-            "url" : "https://oha.to/play/427708442/index.m3u8"
- 
- 
-          },
- 
- 
- 
-{
-            "name": "Canal 5 ⚽Hypermotion canal 1 ",
-"info": "Liga 2ª división",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwYZX9WRumO4Ja6AguRJfCuyTtICdQycePXRNcDaYmQ&s",
-            "url" : "https://oha.to/play/3958277473/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"		
-          },
- 
- 
-{
-            "name": "Canal 5 ⚽Hypermotion canal 1  opc.2",
-"info": "Liga 2ª división",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwYZX9WRumO4Ja6AguRJfCuyTtICdQycePXRNcDaYmQ&s",
-            "url" : "https://canvariiooosdaaz.glitch.me/candaaz.html?id=laliga-hypermotion",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"		
-          },
- 
-{
-            "name": "Canal 6 ⚽Hypermotion 2",
-"info": "Liga 2ª división",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwYZX9WRumO4Ja6AguRJfCuyTtICdQycePXRNcDaYmQ&s",
-            "url" : "https://oha.to/play/899887126/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"		
-          },
- 
- 
-{
- 
-            "name" : "Canal 7 Liga de Campeones ", 
- 
-"info": "Liga de campeones",
-            "image": "https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/M-Liga-de-Campeones_Color-Negativo_RGB.jpg",
-            "url" : "https://oha.to/play/2726712057/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
-                  },
-{
- 
-            "name" : "Canal 7 Liga de campeones opc.2 ", 
- 
-"info": "Liga de campeones",
-            "image": "https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/M-Liga-de-Campeones_Color-Negativo_RGB.jpg",
-            "url" : "https://1.dlhd.sx/stream/stream-435.php"
- 
-                  },
- 
- 
- 
- 
-{
- 
-            "name" : "Canal 7 Liga de campeones 2 ", 
- 
-"info": "Liga de campeones",
-            "image": "https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/M-Liga-de-Campeones_Color-Negativo_RGB.jpg",
-            "url" : "https://dazc.mrgamingstreams.xyz/dazceventos1.m3u8"
- 
-                  },
- 
- 
- 
- 
- 
-{
-            "name": "Canal 8 Movistar Deportes ",
-"info": "Movistar Deportes",
-            "image": "https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png",
-            "url" : "http://oha.to/play/2981915461/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"            
-          },
- 
-{
-            "name": "Canal 9  Dazn1",
-"info": "Dazn1",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url" : "https://oha.to/play/2941093452/index.m3u8",
-"desktop": "true",
-                "online":"true",
                 "embed":"true"   
-          },
  
+	                },
  
 {
-            "name": "Canal 9  Dazn1 opc.2",
-"info": "Dazn1",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url" : "https://deporte-libre.com/en-vivo-online/dazn-1-es/embed.php",
-"desktop": "true",
-                "online":"true",
+            "name": "evento ⚽",
+"info": "  ",
+            "image": "https://st.mycdn.me/res/i/ok_logo-r.png",
+            "url": "https://live.vkvideo.ru/werte", 
+ 
                 "embed":"true"   
-          },
  
- 
+	                },
  
 {
-            "name" : "Canal 10 Dazn2 ", 
-"info": "Dazn2",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url" : "https://oha.to/play/3907910812/index.m3u8",
-			"desktop": "true",
-                "online":"true",
+            "name": "evento ⚽",
+"info": "  ",
+            "image": "https://st.mycdn.me/res/i/ok_logo-r.png",
+            "url": "https://tvpass.org/channel/espn-deportes", 
+ 
+                "embed":"true"   
+ 
+	                },
+{
+			"name": "evento 🎾 ",
+"info": "",
+			"image": "https://st.mycdn.me/res/i/ok_logo-r.png",
+			"url" : "https://Rp@amg01444-tennischannelth-tennischannelspain-samsungspain-f7b4o.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8",
+ 
+ 
                 "embed":"true"
- 
-                  },
- 
-{
-            "name" : "Canal 10 Dazn2 opc.2", 
-"info": "Dazn2",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url" : "https://deporte-libre.com/en-vivo-online/dazn-2-es/embed.php", 
-"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-                  },
- 
-{
-            "name": "Canal 11 Dazn3", 
-"info": "Dazn3",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url" : "https://oha.to/play/3582842156/index.m3u8"
- 
-          },
+},
  
  
  
 {
-            "name": "Canal 12 Dazn4", 
-"info": "Dazn4",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url": "https://dlhd.sx/cast/stream-448.php",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-             },
- 
-{
-            "name": "Canal 12 Dazn 4 Opc.2", 
-"info": "Dazn4",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/DAZN_logo.svg/2036px-DAZN_logo.svg.png",
-            "url" : "https://oha.to/play/1739393340/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
- 
-          },
- 
- 
- 
-{
-            "name" : "Canal 13 #Vamos", 
-"info": "#Vamos",
-            "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_vamos_black.png?w=440&ssl=1",
-            "url" : "https://oha.to/play/2276951612/index.m3u8",
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
-                  },
- 
- 
-{
-            "name" : "Canal 13 #Vamos opc.2", 
-"info": "#Vamos",
-            "image": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_vamos_black.png?w=440&ssl=1",
-            "url" : "https://oha.to/play/450666896/index.m3u8"
-                  },
- 
- 
-{
-            "name" : "Canal 14  Eurosport 1", 
-"info": "Eurosport 1",
-            "image": "https://www.motociclismo.es/uploads/s1/65/10/33/1/2602-sbk-eurosport.jpeg",
+            "name" : "Eurosport 1", 
+"info": "",
+            "image": "",
             "url" : "https://cutt.ly/TeYhTm80?paToos"
  
  
                   },
  
+ 
 {
-            "name" : "Canal 14  Eurosport 1 opc2", 
-"info": "Eurosport 1",
-            "image": "https://www.motociclismo.es/uploads/s1/65/10/33/1/2602-sbk-eurosport.jpeg",
-            "url" : "https://antenatime.site/eurosport1es.php", 
-			"desktop": "true",
-                "online":"true",
+            "name" : "Eurosport 1", 
+"info": "",
+            "image": "",
+            "url" : "https://tv247us.live/watch/eurosport-1-spain/",
+ 
                 "embed":"true"
  
  
                   },
  
  
- 
 {
-            "name" : "Canal 15 Eurosport 2", 
-"info": "Eurosport 2",
-            "image": "https://www.motociclismo.es/uploads/s1/65/10/33/1/2602-sbk-eurosport.jpeg",
+            "name" : "Eurosport 2", 
+"info": "",
+            "image": "",
             "url" : "https://cutt.ly/neI2KjZG?paToos"
  
  
                   },
+ 
 {
-            "name" : "Canal 14  Eurosport 2 opc2", 
-"info": "Eurosport 1",
-            "image": "https://www.motociclismo.es/uploads/s1/65/10/33/1/2602-sbk-eurosport.jpeg",
-            "url" : "https://antenatime.site/eurosport2es.php", 
-			"desktop": "true",
-                "online":"true",
+            "name" : "Eurosport 2", 
+"info": "",
+            "image": "",
+            "url" : "https://tv247us.live/watch/eurosport-2-spain/",
+ 
+                "embed":"true"
+ 
+ 
+                  },
+ 
+ 
+ 
+{
+			"name": "Dazn liga",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/dazn-laliga/", 
+ 
+                "embed":"true" 
+ 
+},
+ 
+ 
+{
+			"name": "Dazn liga",
+"info": "",
+			"image": "",
+			"url" : "https://tutvlive.xyz/tvtodo/dazn-laliga.php", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Dazn liga2",
+"info": "",
+			"image": "",
+			"url" : "https://tutvlive.xyz/tvtodo/dazn-laliga-2.php", 
+ 
+                "embed":"true"
+ 
+}, 
+ 
+{
+			"name": "Movistar liga",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/movistar-laliga/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+            "name" : "Liga Smartbank ", 
+"info": "",
+            "image": "",
+            "url" : "https://tv247us.live/watch/laliga-smartbank-tv/",
+ 
                 "embed":"true"
  
  
@@ -959,56 +738,147 @@
  
  
 {
-			"name": "Canal 16 Fórmula 1",
-"info": "Fórmula 1",
-			"image": "https://www.elgoldigital.com/wp-content/uploads/2023/10/F8EWer0WwAA0dLu.png",
-			"url" : "http://oha.to/play/1826839470/index.m3u8"
- 
-          },
- 
- 
- 
-{
-			"name": "Canal 17 GOLF",
-"info": "",
-			"image": "https://ypley.com/wp-content/uploads/2024/06/golflogo.png",
-			"url" : "https://oha.to/play/428774689/index.m3u8"
- 
- 
-},
- 
-{
-			"name": "Canal SKY SPORTS Evento principal",
-"info": "",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png/revision/latest?cb=20200608142215",
-			"url" : "https://thedaddy.to/stream/stream-38.php",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
-},
- 
-{
-			"name": "Canal SKY SPORTS ",
-"info": "",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sports_Main_Event_HD.png/revision/latest?cb=20200608142215",
-			"url" : "https://d.daddylivehd.sx/stream/stream-60.php",
- 
-			"desktop": "true",
-                "online":"true",
-                "embed":"true"
-},
- 
-{
-			"name": "evento ",
+			"name": "Dazn 1",
 "info": "",
 			"image": "",
-			"url" : "https://Rp@amg01444-tennischannelth-tennischannelspain-samsungspain-f7b4o.amagi.tv/playlist/amg01444-tennischannelth-tennischannelspain-samsungspain/playlist.m3u8",
+			"url" : "https://tv247us.live/watch/dazn-1-spain/", 
  
-			"desktop": "true",
-                "online":"true",
                 "embed":"true"
+ 
 },
+ 
+{
+			"name": "Dazn 2",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/dazn-2-spain/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Dazn 3",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/dazn-3-spain/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Dazn 4",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/dazn-4-spain/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Liga de campeones",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/movistar-liga-de-campeones/",
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "#Vamos",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/vamos-spain/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+ 
+{
+			"name": "Movistar Deportes",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/movistar-deportes-4/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Movistar Deportes 2",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/movistar-deportes-2/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Movistar Deportes 3",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/movistar-deportes-3/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+			"name": "Movistar Deportes 4",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/movistar-deportes-4-alt1/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+            "name" : "Movistar +", 
+"info": "",
+            "image": "",
+            "url" : "https://tv247us.live/watch/movistar-supercopa-de-espana/",
+ 
+                "embed":"true"
+ 
+ 
+                  },
+ 
+{
+			"name": "ESPN Deportes ",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/espn-deportes/", 
+ 
+                "embed":"true"
+ 
+},
+ 
+{
+            "name" : "Fórmula 1", 
+"info": "",
+            "image": "",
+            "url" : "https://tv247us.live/watch/dazn-f1-es/",
+ 
+                "embed":"true"
+ 
+ 
+                  },
+{
+			"name": "GolTv play ",
+"info": "",
+			"image": "",
+			"url" : "https://tv247us.live/watch/gol-play-spain/", 
+ 
+                "embed":"true"
+ 
+},
+ 
  
  
 {  
@@ -1019,6 +889,13 @@
  
 }]
 },
+
+
+
+
+
+
+
  
  
  
@@ -1033,10 +910,7 @@
  
  
  
- 
- 
- 
- 
+              
  
  
  
