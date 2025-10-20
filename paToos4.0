@@ -1,6 +1,6 @@
 {
 	"name": "Enlaces paToos - v4.0",
-    "author": "paToos - actualizado 12/10/2025",
+    "author": "paToos - actualizado 20/10/2025",
     "image": "https://i.ibb.co/rpHn4L9/pa-Toos-logo-2023.jpg",
     "info": "Enlaces canal paToos",
     "telegram": "",
@@ -17,9 +17,9 @@
 "stations":
 [ 
 {
-			"name": "Nolog VPN en PlayStore (gratis) ",
-			"image": "https://downloadr2.apkmirror.com/wp-content/uploads/2022/11/45/6379937829159.png",
-			"url" : "https://play.google.com/store/apps/details?id=com.flashsocket.hulavpn",
+			"name": "1.1.1.1 VPN en PlayStore (gratis) ",
+			"image": "https://www.wizcase.com/wp-content/uploads/2020/08/WarpVPN-wide-logo.png",
+			"url" : "https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone",
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
