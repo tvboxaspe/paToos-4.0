@@ -63,6 +63,47 @@
 },
  
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "name": "EVENTOS ACEX XUPERLIST",
+  "image": "https://i.postimg.cc/jqgsnjqC/logo6-7-193731.png",
+  
+
+  "stations": [
+    
+    {
+      "name": "fin de página",
+      "image": "https://st.depositphotos.com/1064545/2274/i/950/depositphotos_22745337-stock-photo-3d-white-forbidden-sign.jpg",
+      "url": "",
+      "embed": "true"
+    }
+  ],
+
+  "groups": [
+    {
+      "name": "Eventos ACEX",
+      "image": "https://i.postimg.cc/jqgsnjqC/logo6-7-193731.png",
+      "url": "https://raw.githubusercontent.com/Icastresana/lista1/main/eventos.m3u",
+      "import": false
+    }
+  ]
+}, 
  
  
  
@@ -73,8 +114,15 @@
  
  
  
- 
- 
+
+
+
+
+
+
+
+
+
  
  
 {
