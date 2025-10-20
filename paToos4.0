@@ -919,7 +919,7 @@
  
  
  
- 
+	 
 {
     "name": "Paginas de acestream",
     "image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main-800x388.png",
@@ -934,7 +934,7 @@
 			"isHost": "true"
           },
 {
-			"name": "Enlaces para acestream Mr Chire (instalar app Acestream)",
+			"name": "Enlaces para acestream Mr Chire",
 			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
 			"url" : "https://www.misterchire.com/", 
 		"desktop": "true",
@@ -944,95 +944,13 @@
  
  
 {
-			"name": "Enlaces para acestream Xupimarc (instalar app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://www.socialcreator.com/xupimarc2", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
- 
-{
-			"name": "Enlaces para acestream Arena4viewer (instalar app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://proxy.zeronet.dev/1JCeiM2AMfr66b6uqeHnPeCswYLoywx2jR/", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
-{
-			"name": "Enlaces para acestream elCano (instalar app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://ipfs.io/ipns/elcano.top", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
-{
-			"name": "Enlaces para acestream DuckVision (instalar la app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://duckvision.net/", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
- 
- 
-{
-			"name": "Enlaces para acestream FUTBOLGRATIS (instalar app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://todoelfutbolgratis.pages.dev/", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
-{
-			"name": "Enlaces para acestream FUTBOLGRATIS opc.2 (instalar app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://porlacaraveoelfutbol.pages.dev/", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
- 
-{
-			"name": "Enlaces para acestream Ciriaco (instalar app Acestream)",
+			"name": "Enlaces para acestream Ciriaco",
 			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
 			"url" : "https://ciriaco-liart.vercel.app/", 
 		"desktop": "true",
                 "online":"true",
                 "embed":"true"  
           },
- 
- 
- 
- 
- 
- 
- 
-{
-			"name": "Enlaces para acestream Penaltis (instalar la app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://hackmd.io/@penaltis/penaltis", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
-{
-			"name": "Enlaces para acestream Gratisfutbolweb2 (instalar la app Acestream)",
-			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
-			"url" : "https://futbolgratis.pages.dev/", 
-		"desktop": "true",
-                "online":"true",
-                "embed":"true"  
-          },
- 
  
  
 {
