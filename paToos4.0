@@ -934,6 +934,16 @@
 			"isHost": "true"
           },
 {
+			"name": "Enlaces para acestream New Era",
+			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
+			"url" : "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004", 
+		
+                "embed":"true"  
+          },
+
+
+
+{
 			"name": "Enlaces para acestream Mr Chire",
 			"image": "https://www.redeszone.net/app/uploads-redeszone.net/2015/04/Ace-Stream-Media-main.png",
 			"url" : "https://www.misterchire.com/", 
