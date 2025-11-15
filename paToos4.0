@@ -1,6 +1,6 @@
 {
 	"name": "Enlaces paToos - v4.0",
-    "author": "paToos - actualizado 20/10/2025",
+    "author": "paToos - actualizado 15/11/2025",
     "image": "https://i.ibb.co/rpHn4L9/pa-Toos-logo-2023.jpg",
     "info": "Enlaces canal paToos",
     "telegram": "",
@@ -166,7 +166,7 @@
 			"name": "Omega-Vercel",
 "info": "canal con los mejores eventos",
 			"image": "https://www.casasdeapuestas.com/wp-content/uploads/2021/12/calendario-deportivo.jpg",
-			"url" : "https://enlaces-omega.vercel.app/horario.html", 
+			"url" : "https://ciriaco.netlify.app/", 
 			"desktop": "true",
                 "online":"true",
                 "embed":"true"
